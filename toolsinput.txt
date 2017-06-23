@@ -1,0 +1,16 @@
+7
+7
+Hammer
+Hammer
+Power Saw
+Ladder
+Ladder
+Ladder
+Caulking Gun
+Jason, Hammer, Ladder, Caulking Gun
+Amanda, Hammer
+Kristina, Caulking Gun
+Chad, Ladder
+Josephine, Power Saw
+Chris, Power Saw, Ladder
+Dennis, Caulking Gun, Hammer
